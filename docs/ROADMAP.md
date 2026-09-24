@@ -1,5 +1,7 @@
 # HitTracker roadmap
 
+**English** · [Українська](ROADMAP.uk.md)
+
 ## Planned: true monorepo
 
 The current central repository is intentionally a documentation hub. Mobile and backend source remain in their existing repositories until a controlled migration is worthwhile.

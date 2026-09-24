@@ -1,5 +1,7 @@
 # Android releases
 
+**English** · [Українська](RELEASES.uk.md)
+
 All APK files are published through [GitHub Releases](https://github.com/smmlt/hit-tracker-mobile/releases). The latest stable build is always available at the [latest-release link](https://github.com/smmlt/hit-tracker-mobile/releases/latest).
 
 | Release | APK type | Main changes | SHA-256 |
@@ -20,4 +22,3 @@ Algorithm: RSA 4096
 ```
 
 Android only accepts an in-place update when the installed and incoming packages have compatible signatures. Remove a Build 1–3 installation once before installing Build 4. Builds signed with the permanent key can then update Build 4 normally.
-

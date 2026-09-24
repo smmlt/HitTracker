@@ -5,6 +5,10 @@
 <h1 align="center">HitTracker</h1>
 
 <p align="center">
+  <strong>English</strong> · <a href="README.uk.md">Українська</a>
+</p>
+
+<p align="center">
   A cross-platform workout planner and tracker for building programs, scheduling training and recording real workout results.
 </p>
 
