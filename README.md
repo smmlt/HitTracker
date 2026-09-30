@@ -93,7 +93,7 @@ The frontend and backend remain independent repositories. This repository is the
 
 The recommended APK is a universal signed build for Android 7.0 and newer. It includes `armeabi-v7a`, `arm64-v8a`, `x86` and `x86_64`, so the same file can run on supported phones and Android emulators.
 
-- [Download Build 4 (latest)](https://github.com/smmlt/hit-tracker-mobile/releases/latest)
+- [Download Build 10 (latest)](https://github.com/smmlt/hit-tracker-mobile/releases/latest/download/HitTracker-Android-universal.apk)
 - [Compare all builds and checksums](docs/RELEASES.md)
 
 Builds 1–3 used earlier signing credentials. Install Build 4 as a clean installation once; future releases signed with the permanent HitTracker key can update it in place.
