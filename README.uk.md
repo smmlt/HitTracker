@@ -93,7 +93,7 @@ Frontend і backend залишаються незалежними репозит
 
 Рекомендований APK — універсальна підписана збірка для Android 7.0 і новіших версій. Вона містить `armeabi-v7a`, `arm64-v8a`, `x86` та `x86_64`, тому один файл працює на підтримуваних телефонах і Android-емуляторах.
 
-- [Завантажити Build 4 (останній)](https://github.com/smmlt/hit-tracker-mobile/releases/latest)
+- [Завантажити Build 10 (останній)](https://github.com/smmlt/hit-tracker-mobile/releases/latest/download/HitTracker-Android-universal.apk)
 - [Порівняти всі збірки та контрольні суми](docs/RELEASES.uk.md)
 
 Build 1–3 використовували попередні облікові дані для підпису. Один раз установіть Build 4 як чисту інсталяцію; наступні релізи з постійним ключем HitTracker зможуть оновлювати його без видалення застосунку.
