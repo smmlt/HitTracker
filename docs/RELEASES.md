@@ -2,10 +2,11 @@
 
 **English** · [Українська](RELEASES.uk.md)
 
-All APK files are published through [GitHub Releases](https://github.com/smmlt/hit-tracker-mobile/releases). The latest stable build is always available at the [latest-release link](https://github.com/smmlt/hit-tracker-mobile/releases/latest).
+APK files are published through [HitTracker releases](https://github.com/smmlt/HitTracker/releases) and the [mobile release archive](https://github.com/smmlt/hit-tracker-mobile/releases). The latest stable build is available at the [latest-release link](https://github.com/smmlt/HitTracker/releases/latest).
 
 | Release | APK type | Main changes | SHA-256 |
 |---|---|---|---|
+| [v1.2.5 · Build 16](https://github.com/smmlt/HitTracker/releases/tag/android-v1.2.5-build16) | Universal | Notification icon and Android display fixes; verified on a physical device | `3036324EF8D311B1345A19DCA42960FF23E6A73CB90C993E55BD45D79E237171` |
 | [v1.1.2 · Build 10](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.1.2-build10) | Universal | Scrollable admin tabs on narrow screens, Android 7+, four ABIs | `D5924CE7A29E8B12F89BCD0D633167E68E23D3A2E439CBA18A909C3393FFF6DA` |
 | [v1.0.2 · Build 4](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.0.2-build4) | Universal | Branded splash, centered icon, Android 7+, four ABIs, permanent signing key | `566C3294C4C736F4C66EBEC8C6F22E4FE56AB79364D80E1351706B1C8AD19E77` |
 | [v1.0.1 · Build 3](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.0.1-build3) | ARM64 | Branded launcher icon and native profile-photo upload fix | `4E2FE783D9CDECE62A4428659349A1C9E5D67FCF0157085C2EFCD71004FBC583` |

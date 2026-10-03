@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/smmlt/hit-tracker-mobile/releases/latest"><img alt="Latest Android release" src="https://img.shields.io/github/v/release/smmlt/hit-tracker-mobile?display_name=tag&label=Android&color=ee1c27" /></a>
+  <a href="https://github.com/smmlt/HitTracker/releases/latest"><img alt="Latest Android release" src="https://img.shields.io/github/v/release/smmlt/HitTracker?display_name=tag&label=Android&color=ee1c27" /></a>
   <img alt="Android 7+" src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white" />
   <img alt="Expo SDK 57" src="https://img.shields.io/badge/Expo-SDK%2057-000020?logo=expo" />
   <img alt="NestJS 11" src="https://img.shields.io/badge/NestJS-11-E0234E?logo=nestjs" />
@@ -27,7 +27,7 @@
 | Web app | [app.hit-tracker.com](https://app.hit-tracker.com) | Browser version of HitTracker |
 | Mobile / frontend | [smmlt/hit-tracker-mobile](https://github.com/smmlt/hit-tracker-mobile) | Expo, React Native, Android, iOS-ready configuration and web client |
 | Backend / API | [Igggosha/HITTrackerBackend](https://github.com/Igggosha/HITTrackerBackend) | NestJS API, PostgreSQL schema, migrations and Docker stack |
-| Latest Android APK | [Download the latest release](https://github.com/smmlt/hit-tracker-mobile/releases/latest) | Recommended signed universal build |
+| Latest Android APK | [Download the latest release](https://github.com/smmlt/HitTracker/releases/latest) | Recommended signed universal build |
 | Release archive | [All Android releases](https://github.com/smmlt/hit-tracker-mobile/releases) | Historical APK builds and change notes |
 
 > The public web and API endpoints currently depend on the project's development infrastructure and may be unavailable while the host machine is offline.
@@ -93,7 +93,7 @@ The frontend and backend remain independent repositories. This repository is the
 
 The recommended APK is a universal signed build for Android 7.0 and newer. It includes `armeabi-v7a`, `arm64-v8a`, `x86` and `x86_64`, so the same file can run on supported phones and Android emulators.
 
-- [Download Build 10 (latest)](https://github.com/smmlt/hit-tracker-mobile/releases/latest/download/HitTracker-Android-universal.apk)
+- [Download v1.2.5 · Build 16](https://github.com/smmlt/HitTracker/releases/latest/download/HitTracker-Android-v1.2.5-build16-universal.apk)
 - [Compare all builds and checksums](docs/RELEASES.md)
 
 Builds 1–3 used earlier signing credentials. Install Build 4 as a clean installation once; future releases signed with the permanent HitTracker key can update it in place.

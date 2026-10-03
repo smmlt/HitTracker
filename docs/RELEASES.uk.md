@@ -2,10 +2,11 @@
 
 [English](RELEASES.md) · **Українська**
 
-Усі APK-файли опубліковано в [GitHub Releases](https://github.com/smmlt/hit-tracker-mobile/releases). Остання стабільна збірка завжди доступна за [посиланням на актуальний реліз](https://github.com/smmlt/hit-tracker-mobile/releases/latest).
+APK-файли опубліковано в [релізах HitTracker](https://github.com/smmlt/HitTracker/releases) та [архіві мобільного клієнта](https://github.com/smmlt/hit-tracker-mobile/releases). Остання стабільна збірка доступна за [посиланням на актуальний реліз](https://github.com/smmlt/HitTracker/releases/latest).
 
 | Реліз | Тип APK | Основні зміни | SHA-256 |
 |---|---|---|---|
+| [v1.2.5 · Build 16](https://github.com/smmlt/HitTracker/releases/tag/android-v1.2.5-build16) | Universal | Виправлення значка й відображення сповіщень Android; перевірено на фізичному пристрої | `3036324EF8D311B1345A19DCA42960FF23E6A73CB90C993E55BD45D79E237171` |
 | [v1.1.2 · Build 10](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.1.2-build10) | Universal | Прокручувані вкладки адмінпанелі на вузьких екранах, Android 7+, чотири ABI | `D5924CE7A29E8B12F89BCD0D633167E68E23D3A2E439CBA18A909C3393FFF6DA` |
 | [v1.0.2 · Build 4](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.0.2-build4) | Universal | Фірмовий splash screen, центрована іконка, Android 7+, чотири ABI та постійний ключ підпису | `566C3294C4C736F4C66EBEC8C6F22E4FE56AB79364D80E1351706B1C8AD19E77` |
 | [v1.0.1 · Build 3](https://github.com/smmlt/hit-tracker-mobile/releases/tag/android-v1.0.1-build3) | ARM64 | Фірмова іконка застосунку та виправлення нативного завантаження фотографії профілю | `4E2FE783D9CDECE62A4428659349A1C9E5D67FCF0157085C2EFCD71004FBC583` |
